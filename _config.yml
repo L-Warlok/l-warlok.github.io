@@ -18,11 +18,14 @@ author:
   name:              Luke Warlik
   url:               https://twitter.com/luke_warlik
   email:             lukewarlik@gmail.com
+linkdin:             https://au.linkedin.com/in/lukewarlik
+fayboo:              https://facebook.com/lukewarlik
+twitter:             https://twitter.com/luke_warlik
 
 # Custom vars
 version:             2.0.0
-github:
-  repo:              https://github.com/L-Warlok/l-warlok.github.io
+github:            https://github.com/L-Warlok
+repo:              https://github.com/L-Warlok/l-warlok.github.io
 
 # Gems
 gems:
