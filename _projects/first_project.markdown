@@ -1,9 +1,8 @@
 ---
 layout: default
 title: first
-output: true
 ---
 
-# this is a title
+# Hello world
 
-* and here is a list of all the work that I haven't done yet
+This directory will one day be a collection of all the projects that I have done, but for now IT is a project.
