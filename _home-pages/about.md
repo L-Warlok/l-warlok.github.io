@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+
 ---
 
 ![A portrait of myself](/assets/goodv2.jpg)

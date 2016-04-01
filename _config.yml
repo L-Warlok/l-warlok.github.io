@@ -1,10 +1,11 @@
 # Permalinks
-permalink:           /:title/
+permalink:           /blog/:title/
 
 # Setup
 title:               Luke
 url:                 http://l-warlok.github.io/
 baseurl:             ""
+analytics_id: UA-75819191-1
 
 # Assets
 #
@@ -31,11 +32,10 @@ repo:              https://github.com/L-Warlok/l-warlok.github.io
 gems:
   - jekyll-gist
 
-# Pages
-about:			/about/index.html
-blog:			/blog/index.html
-
 
 collections:
-  - projects
-
+ home-pages:
+  output: true
+  permalink: /:title/
+ projects: 
+   output: true
