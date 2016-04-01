@@ -1,5 +1,5 @@
 # Permalinks
-permalink:           pretty
+permalink:           /:title/
 
 # Setup
 title:               Luke
@@ -34,3 +34,8 @@ gems:
 # Pages
 about:			/about/index.html
 blog:			/blog/index.html
+
+
+collections:
+  - projects
+
