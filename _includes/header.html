@@ -3,9 +3,9 @@
     <h3 class="masthead-title">
       <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
       <small>
-        {% for page in site.home-pages %}
+        {% for page in site.homePages %}
           {% if page.title %}
-            <a href="{{ page.url | prepend: site.home-pages.directory }}">{{ page.title }}</a>
+            <a href="{{ page.url | prepend: site.homePages.directory }}">{{ page.title }}</a>
           {% endif %}
 
         {% endfor %}

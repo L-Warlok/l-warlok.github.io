@@ -34,7 +34,7 @@ gems:
 
 
 collections:
- home-pages:
+ homePages:
   output: true
   permalink: /:title/
  projects: 
