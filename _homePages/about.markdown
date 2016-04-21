@@ -11,12 +11,11 @@ Hi, my name's Luke and I'm a third year Mechatronic Engineering Student at Curti
 I'm currently on a student exchange in Catalonia, Spain, working as an English language assistant. I have quite a lot a free time here so I'm currently learning:
 
 * To play with websites;
-* Object-Orientation through c++(no h8 pls);
-* Android development and;
+* Object-Orientation through Java;
+* Android development;
+* Vim and;
 * Polish.
 
-<!-- This section will hopefully one day contain a more complete description of my achievements but for now I'll stick to some social media profiles
- so if you want to get in touch let me know through here: -->
 
 ## Find me elsewhere:
 
