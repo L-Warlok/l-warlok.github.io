@@ -1,20 +1,20 @@
 ---
 layout: default
-title: meanwhile
+title: Meanwhile
 
 ---
 
-So it's been a while since I've written and I've been meaning to write again for a while now but I've been busy doing things
+So it's been a while since I've written and I've been meaning to write again for a while now but I've been busy doing things.
 
 ## Sant Jordi
-Sant Jordi, or Saint George, is the patron saint of Catalonia, and his day, the 23rd of April
-In Catalonia they celebrate a festival called Sant Jordi, which is like their version of Valentine's day. It's based on a legend about a dragon that 
+Sant Jordi, or Saint George, is the patron saint of Catalonia, and his day is the 23rd of April.
+In Catalonia they celebrate a festival called Sant Jordi, which is like their version of Valentine's day. It's based on a legend about a dragon.
 
 Unfortunately I was sick on this day, but I still wanted to see the festival so I went to Barcelona anyway. I slept most of the way there on the train because I slept poorly the night before but when I arrived I was still tired. 
 
-It was about 2PM when I arrived at the Plaza de ![asdf](cataluna), where I quickly met up with Jenefer and Rachel who had come earlier in the day. The had procured free tickets to the ![guell](asdf) Palace, a mansion near Les Rambles designed by Gaudi during the late 19th century for Eusebi ![guell](asdf), so when went to see that. 
+It was about 2PM when I arrived at the Plaza de Cataluña, where I quickly met up with Jenefer and Rachel who had come earlier in the day. The had procured free tickets to the Güell Palace, a mansion near Les Rambles designed by Gaudí during the late 19th century for Eusebi Güell, so when went to see that. 
 
-All the way along Les Rambles florists and book shops set up there stalls for people to buy roses and books for their loved ones. This area is already pretty busy on a normal day, so with this massive festival it was packed. I didn't buy anything because.... I don't like spending money ... but it was interesting to see.
+All the way along Les Rambles florists and book shops set up there stalls for people to buy roses and books for their loved ones. This area is already pretty busy on a normal day, so with this massive festival it was packed. I didn't buy anything because I don't like spending money but it was interesting to see.
 
 Next we went to eat, at a random Irish style pub because it was kind of cheaper than the other places we saw. I don't think I'd go back there because the food was shit.
 
