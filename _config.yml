@@ -31,7 +31,6 @@ repo:              https://github.com/L-Warlok/l-warlok.github.io
 
 # Gems
 gems:
-  - jekyll-gist
 
 
 collections:
