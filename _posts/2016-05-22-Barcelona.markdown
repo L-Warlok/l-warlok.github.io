@@ -1,11 +1,15 @@
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: Barcelona Weekend
 =======
 title: Barcelona
 >>>>>>> content
+=======
+>>>>>>> content
 layout: default
+title: Barcelona
 ---
 ## Another long weekend
 A couple of weeks ago(14-16th of May) there was another long weekend so we decided to go somewhere. At first the plan was to go to the beach but we ended up in Barcelona instead. 
