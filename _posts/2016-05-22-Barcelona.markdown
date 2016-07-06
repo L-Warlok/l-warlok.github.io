@@ -1,5 +1,5 @@
 ---
-title: Barcelona Weekend
+title: Barcelona
 layout: default
 ---
 ## Another long weekend
