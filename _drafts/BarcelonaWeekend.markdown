@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: Barcelona Weekend
 layout: default
 ---
@@ -49,3 +50,9 @@ There was another Gaudi house fairly close to where we were so we walked there b
 
 So that was more or less the weekend in Barcelona. I think I saw most of the sights to see, and anything I missed I can see the next time I'm here. 
 
+=======
+title:Barcelona Weekend
+layout:post
+---
+I need to write about this sometime 
+>>>>>>> 5afbd1863935ef698474726356c1ce238fb9d610
