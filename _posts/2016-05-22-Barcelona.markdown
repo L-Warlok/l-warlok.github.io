@@ -1,6 +1,10 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: Barcelona Weekend
+=======
+title: Barcelona
+>>>>>>> content
 layout: default
 ---
 ## Another long weekend
